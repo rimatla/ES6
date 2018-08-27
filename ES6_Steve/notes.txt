@@ -1,0 +1,9 @@
+- Different ES6 examples by Stephen Grider
+
+ES6 = ECMAScript 6
+ECMAScript is a standard. JavaScript is an implementation.
+
+- In large JS applications avoid changing/mutating data whenever possible
+
+- Whenever pass a anonymous function inside of our code base, the value of this is lost inside of that function.
+- Fat => function makes use of lexical this, re-assigning this in accordance to where (scope) is applied and requested
