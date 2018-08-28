@@ -1,1 +1,1 @@
-# ES6 Sandbox ⚡️
+## ES6 Sandbox ⚡️
